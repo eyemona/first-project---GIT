@@ -70,9 +70,26 @@ h4 {
 	margin-right: 10px;
 	margin-bottom: 40px;
 }
-
-
-
+.blue-bottom-bar {
+	background-color: rgb(12, 118, 181);
+	height: 50px;
+	width: 206px;
+	margin-right: 42.5%;
+	margin-left: 42.5%;
+}
+.last-inane-box {
+	height: 200px;
+	width: 100%;
+	background-color: rgb(226, 236, 243);
+	padding-top: 70%;
+}
+.bottom-blue-bar {
+	background-color: rgb(12, 118, 181);
+	height: 50px;
+	width: 206px;
+	margin-right: 42.5%;
+	margin-left: 42.5%;
+}
 
 
 
