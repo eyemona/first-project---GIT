@@ -1,0 +1,47 @@
+
+.blue-background {
+	height: 995px;
+	width: 100%;
+	background-color: rgb(39, 48, 64);
+}
+.top-blue-bar {
+	height: 45px;
+	background-color: rgb(12, 118, 181);
+	margin-top: -20px;
+}
+h2 {
+	color: white;
+	margin-right: 40%;
+	margin-left: 40%;
+	margin-top: 15%;
+	text-align: center;
+}
+h4 {
+	color: white;
+	margin-right: 20%;
+	margin-left: 20%;
+	text-align: center;
+	padding-left: 10%;
+	padding-right: 10%;
+
+}
+.blue-border-box {
+	background-color: rgb(12, 118, 181);
+	height: 50px;
+	width: 206px;
+	margin-right: 42.5%;
+	margin-left: 42.5%;
+	margin-top: 30px;
+	border: 10px solid rgb(25, 30, 40);
+}
+.itty-bitty-white-box {
+	background-color: rgb(247, 247, 247);
+	width: 45px;
+	height: 20px;
+	margin-right: 45%;
+	margin-left: 45%;
+	margin-top: 20%;
+
+}
+
+}
